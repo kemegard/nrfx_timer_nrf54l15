@@ -54,7 +54,7 @@
 #define TIMER_INST_IDX 20
 
 /** @brief Symbol specifying time in milliseconds to wait for handler execution. */
-#define TIME_TO_WAIT_MS 1000
+#define TIME_TO_WAIT_MS 1000UL
 
 /**
  * @brief Function for handling TIMER driver events.
