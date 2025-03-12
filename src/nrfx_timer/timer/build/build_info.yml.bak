@@ -1,5 +1,0 @@
-west:
-  command: C:\ncs\toolchains\b620d30767\opt\bin\Scripts\west build -b nrf54l15dk/nrf54l15/cpuapp
-    --no-sysbuild --pristine
-  topdir: C:\ncs\v2.9.0
-  version: 1.2.0
